@@ -6,4 +6,5 @@ public class Test {
 	private int b = 20;
 	private int a = 30;
 	private int d= 50;
+	private int c =40;
 }
