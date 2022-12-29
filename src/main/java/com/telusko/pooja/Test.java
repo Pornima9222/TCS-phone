@@ -8,4 +8,5 @@ public class Test {
 	private int c =400;
 	
 	//xyz
+	private int d= 50;
 }
