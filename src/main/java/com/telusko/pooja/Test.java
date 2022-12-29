@@ -5,4 +5,5 @@ public class Test {
 	private String name = "Alien";
 	private int b = 20;
 	private int a = 30;
+	private int c =40;
 }
